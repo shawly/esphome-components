@@ -15,7 +15,7 @@ external_components:
 
 ### 2.1. `uart`
 
-This is a customized version of the uart component which allows the use of hardware flow control for ESP32 boards.  
+This is a customized version of the [`uart`](https://esphome.io/components/uart.html) component which allows the use of hardware flow control for ESP32 boards.  
 **You can only use this with the [ESP-IDF framework](https://esphome.io/components/esp32.html#esp32-espidf-framework) and ESP32 boards!**
 
 #### 2.1.1. Example
